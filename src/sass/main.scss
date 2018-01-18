@@ -1,0 +1,31 @@
+@import "variables";
+@import "@sketchpixy/rubix/sass/rubix";
+@import "@sketchpixy/rubix/sass/vendor";
+@import "colors";
+@import "theme";
+
+@import "sass/fonts/lato/lato.css";
+@import "sass/fonts/fontello/fontello.css";
+@import "sass/fonts/climacons/climacons.css";
+@import "sass/fonts/devicon/devicon.css";
+@import "sass/fonts/dripicons/dripicons.css";
+@import "sass/fonts/feather/feather.css";
+@import "sass/fonts/flatline/flatline.css";
+@import "sass/fonts/mfizz/mfizz.css";
+@import "sass/fonts/nargela/nargela.css";
+@import "sass/fonts/glyphicons/glyphicons.css";
+@import "sass/fonts/ikons/ikons.css";
+@import "sass/fonts/outlined/outlined.css";
+@import "sass/fonts/pixelvicon/pixelvicon.css";
+@import "sass/fonts/Simple-Line-Icons/Simple-Line-Icons.css";
+@import "sass/fonts/Stroke-Gap-Icons/Stroke-Gap-Icons.css";
+
+
+.maClasse {
+   width:33%;
+   float:left;
+ }
+
+
+/* Page styles */
+@import "pages/home";
